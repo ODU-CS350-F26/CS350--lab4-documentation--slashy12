@@ -1,3 +1,5 @@
+* [Reports](https://odu-cs350-f26.github.io/CS350--lab4-documentation--slashy12/)
+
 # WordCounter
 
 There are a number of applications in which it is useful to know what the most
